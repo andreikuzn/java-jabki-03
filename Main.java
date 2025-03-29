@@ -357,7 +357,6 @@ public class Main {
                 valid = true;
             } else {
                 System.out.println("Число не удовлетворяет всем условиям!");
-                valid = false;
             }
         }
 
